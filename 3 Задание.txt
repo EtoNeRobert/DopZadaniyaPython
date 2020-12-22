@@ -1,0 +1,8 @@
+3 задание
+
+код нейросети, которая распознает кота или собаку.(с библиотеками нейросетей)
+https://colab.research.google.com/drive/10EGFrNyG5MiA14VGhdC_v8g19tFZKRA4
+
+
+Статья про то, как распознают лица
+https://securityrussia.com/blog/face-recognition.html
